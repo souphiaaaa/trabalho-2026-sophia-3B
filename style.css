@@ -69,4 +69,8 @@ body {
     .botao:last-child{
         border-radius: 0 40px 0 0;
     }
+    .ativo{
+        background-color: #1E1E1E;
+        border-bottom: 4px solid var(--verde);
+    }
 }
